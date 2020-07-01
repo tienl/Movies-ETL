@@ -1,3 +1,8 @@
+#large file for the exercise avoided
+*.csv
+*.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,7 +10,7 @@ __pycache__/
 
 # C extensions
 *.so
-*.csv
+
 # Distribution / packaging
 .Python
 build/
